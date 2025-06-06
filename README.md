@@ -13,23 +13,23 @@ The objective of this analysis is to conduct a comprehensive analysis of Blinkit
 1. Total Sales by Fat Content:
 	Objective: Analyze the impact of fat content on total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-	Chart Type: Donut Chart.
+	
 2. Total Sales by Item Type:
 	Objective: Identify the performance of different item types in terms of total sales.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-	Chart Type: Bar Chart.
+	
 3. Fat Content by Outlet for Total Sales:
 	Objective: Compare total sales across different outlets segmented by fat content.
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
-	Chart Type: Stacked Column Chart.
+	
 4. Number of Outlet Establishments added by year:
 	Objective: Analyse the increase in outlets added each year.
-	Chart Type: Line Chart.
+	
 5. Sales by Outlet Size:
 	Objective: Analyze the correlation between outlet size and total sales.
-	Chart Type: Donut/ Pie Chart.
+	
 6. Sales by Outlet Location:
 	Objective: Assess the geographic distribution of sales across different locations.
-	Chart Type: Funnel Map.
+	
 
 ## **Conclusion**
