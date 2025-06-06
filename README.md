@@ -39,4 +39,6 @@ The objective of this analysis is to conduct a comprehensive analysis of Blinkit
 - Enhance item visibility for Supermarket Type 2 and 3 through improved categorization and search features.
 - Investigate the 2010 outlet drop to inform risk management and strategic decisions in future expansions.
 
-<img width="757" alt="image" src="https://github.com/user-attachments/assets/8f63a2f8-7fae-462a-830d-b5fb9d9b8639" />
+
+
+	<img width="757" alt="image" src="https://github.com/user-attachments/assets/8f63a2f8-7fae-462a-830d-b5fb9d9b8639" />
