@@ -32,4 +32,9 @@ The objective of this analysis is to conduct a comprehensive analysis of Blinkit
 	Objective: Assess the geographic distribution of sales across different locations.
 	
 
-## **Conclusion**
+## **Strategic Recommendations**
+- Improve visibility and promotional strategies for underperforming categories like seafood and breakfast items.
+- Promote low-fat options in Tier 1 and Tier 2 outlets to cater to evolving health trends.
+- Prioritize growth in Tier 3 cities and expand high-performing large-format outlets.
+- Enhance item visibility for Supermarket Type 2 and 3 through improved categorization and search features.
+- Investigate the 2010 outlet drop to inform risk management and strategic decisions in future expansions.
