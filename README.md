@@ -42,3 +42,8 @@ The objective of this analysis is to conduct a comprehensive analysis of Blinkit
 
 
 	<img width="757" alt="image" src="https://github.com/user-attachments/assets/8f63a2f8-7fae-462a-830d-b5fb9d9b8639" />
+
+
+
+
+<sub><sup>_Inspired by: https://www.youtube.com/watch?v=mmxVCFceQgU </sup></sub>
